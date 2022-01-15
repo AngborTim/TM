@@ -1,31 +1,6 @@
-span.word:hover{
-cursor: pointer;
-}
+.cell{
 
-#drill_name_text{
-    text-decoration:underline;
-    text-decoration-style: dashed;
-    font-size: x-large;
-    font-weight: bold;
-}
+width: 20px;
+text-align: center;
 
-#drill_name_text:hover{ 
-    cursor: pointer; 
-}
-
-span.badge_pointer:hover{
-cursor: pointer;
-}
-
-span.order{
-    font-weight: bold;
-}
-
-#pencil:hover{
-    cursor: pointer;
-}
-
-
-h3{
-    text-align: center;
 }
